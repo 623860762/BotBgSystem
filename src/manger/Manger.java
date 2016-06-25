@@ -1,0 +1,1 @@
+package manger;/** * Manger 标识接口 * @author Felix * */public interface Manger {}

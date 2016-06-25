@@ -1,0 +1,1 @@
+package model;/** * Model 标识接口 * @author Felix * */public interface Model {}

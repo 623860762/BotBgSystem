@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="BotBgSystemV2"
+  id="myeclipse.1351580403828"
+  context-root="/BotBgSystem"
+  j2ee-spec="6.0"
+  archive="BotBgSystemV2.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

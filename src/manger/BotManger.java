@@ -1,0 +1,1 @@
+package manger;public class BotManger implements Manger{	/**	 * 根据用户提问，获得回复内容	 * @param pUid	 * @param pQuestion	 * @return	 */	public static String getAnswer(String pUid,String pQuestion){		String retStr = "";		return retStr;	}			}

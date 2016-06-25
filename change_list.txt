@@ -1,0 +1,12 @@
+********************************************
+*BotBgSystem 二期 更新列表
+*作者	yichen5
+*部署版本为BotBgSystem.war
+********************************************
+
+v1.0.0
+统一与MessageCenter，CorpusManger接口参数为JSON格式
+增加SetUserInfo接口
+优化RMI链接代码，增加rmiConnection函数
+提交errcode
+完善测试接口功能测试代码，增加testconfig配置文件

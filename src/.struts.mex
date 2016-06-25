@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Struts2Diagram version="2.0">
+  <package name="api" location="10,10" size="420,495">
+    <action name="appendIndex" location="15,24" size="150,41">
+      <result name="success" />
+    </action>
+    <action name="deleteIndex" location="260,24" size="150,41">
+      <result name="success" />
+    </action>
+    <action name="corpusSearch" location="15,164" size="150,41">
+      <result name="success" />
+    </action>
+    <action name="messageSearch" location="260,164" size="150,41">
+      <result name="success" />
+    </action>
+    <action name="replyMessage" location="15,304" size="150,41">
+      <result name="success" />
+    </action>
+    <action name="addUser" location="260,304" size="150,41">
+      <result name="success" />
+    </action>
+    <action name="deleteUser" location="15,444" size="150,41">
+      <result name="success" />
+    </action>
+    <action name="setUserInfo" location="260,444" size="150,41">
+      <result name="success" />
+    </action>
+  </package>
+</Struts2Diagram>
+
